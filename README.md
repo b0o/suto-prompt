@@ -4,6 +4,9 @@ ZSH plugin for displaying your current sudo timeout status
 
 Requires [suto](https://github.com/b0o/suto) to be in your `$PATH`.
 
+### Example
+![suto example](example.gif)
+
 ### Usage
 
 Include `suto-prompt` in your `plugins` array:
