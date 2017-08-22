@@ -6,11 +6,11 @@ Requires [suto](https://github.com/b0o/suto) to be in your `$PATH`.
 
 ### Usage
 
-Include `suto` in your `plugins` array:
+Include `suto-prompt` in your `plugins` array:
 
 ```shell
 plugins=(
-  suto
+  suto-prompt
 )
 ```
 
