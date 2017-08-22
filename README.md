@@ -1,4 +1,4 @@
-### suto.plugin.zsh
+### suto-prompt.plugin.zsh
 
 ZSH plugin for displaying your current sudo timeout status
 
