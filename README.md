@@ -23,3 +23,5 @@ PROMPT='%{$fg_no_bold[cyan]%}%n $(_suto_prompt "%{$fg_no_bold[red]%}♥" "%{$fg_
 #### See Also:
 [suto](https://github.com/b0o/suto)
 
+#### License:
+&copy;2017 Maddison Hellstrom; MIT License
